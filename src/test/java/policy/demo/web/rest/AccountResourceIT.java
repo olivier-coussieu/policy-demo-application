@@ -25,7 +25,6 @@ import policy.demo.security.AuthoritiesConstants;
 import policy.demo.service.UserService;
 import policy.demo.service.dto.AdminUserDTO;
 import policy.demo.service.dto.PasswordChangeDTO;
-import policy.demo.service.dto.UserDTO;
 import policy.demo.web.rest.vm.KeyAndPasswordVM;
 import policy.demo.web.rest.vm.ManagedUserVM;
 

@@ -15,14 +15,10 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.mock.mockito.MockBean;
 import org.springframework.data.auditing.AuditingHandler;
 import org.springframework.data.auditing.DateTimeProvider;
-import org.springframework.data.domain.Page;
-import org.springframework.data.domain.PageRequest;
 import org.springframework.transaction.annotation.Transactional;
 import policy.demo.IntegrationTest;
-import policy.demo.config.Constants;
 import policy.demo.domain.User;
 import policy.demo.repository.UserRepository;
-import policy.demo.service.dto.AdminUserDTO;
 import tech.jhipster.security.RandomUtil;
 
 /**

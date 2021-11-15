@@ -5,7 +5,6 @@ import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 import org.springframework.boot.test.context.SpringBootTest;
-import policy.demo.PolicyDemoApplicationApp;
 
 /**
  * Base composite annotation for integration tests.
