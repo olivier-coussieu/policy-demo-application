@@ -15,7 +15,7 @@ npm-debug.log.*
 /.awcache/*
 /.cache-loader/*
 yarn.lock
-
+package-lock.json
 ######################
 # SASS
 ######################
